@@ -1,22 +1,22 @@
 ## Last Week's Accomplishments
 
-> In this section, you can write about what you accomplished in the previous week.
+	Exploring the tools needed for Hedgehogs. Learned of issues with WSL and Docker, and bugs with downloading docker
+	Downloaded data from SimFin financial data, and tried to parse the data using python.
+	Was a simple parser that separated the csv file into a list, maybe we can eventually clean out rough edges but the main goal is to just get the data into postgres servers.
 
-> Examples:
-> Bug fixes, Features added, Links to Issues, Links to Pull-Requests, Lightning Talks, Bonus Sessions
 
 ## This Week's Plan
 
-> In this section, you can write about what you have planned for next week.
+	I would enjoy it if I could even learn some of this information for future projects outside of Hedgehogs, since these are very useful tools with many applicable situations.
+	Learn information on postGresSQL using, in order to place information parsed from our data into the server.
+	Once input data into server, learn about the tools available from postgres.
 
-> Examples: New Bugs to be fixed, Design choices
 
 ## Anything Blocking?
 
-> In this section, you can write about any blockers that you are having trouble in the project.
-
-> Examples: Confusion on how to approach a problem, Limited experience with a specific technology
+	I don't have much experience coding with new tools like postgres and sql style code. 
+	I will have to do alot of figuring out of how these tools will connect and be relevent with each other.
 
 ## Notes
 
-> This is an optional section for any sort of information that does not fall under any of the other categories.
+	I have looked and become more familiar with programming with databases, but still needs work.
